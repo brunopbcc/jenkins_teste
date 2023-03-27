@@ -1,0 +1,6 @@
+#!/bin/bash
+
+cd ..
+cd 
+
+cat apache.log | grep $1
